@@ -1,0 +1,14 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\bin\Debug\WindowsClients.DesktopUI.exe.config
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\bin\Debug\WindowsClients.DesktopUI.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\bin\Debug\WindowsClients.DesktopUI.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\LoginWindow.g.cs
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\App.g.cs
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI_MarkupCompile.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI_MarkupCompile.lref
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\LoginWindow.baml
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.g.resources
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.Properties.Resources.resources
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.csproj.GenerateResource.Cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.DesktopUI\obj\Debug\WindowsClients.DesktopUI.pdb

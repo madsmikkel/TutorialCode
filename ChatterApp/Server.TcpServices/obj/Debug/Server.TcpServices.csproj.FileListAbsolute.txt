@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Server.TcpServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Server.TcpServices.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.pdb

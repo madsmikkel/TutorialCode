@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\bin\Debug\Server.WcfServices.dll.config
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\bin\Debug\Server.WcfServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\bin\Debug\Server.WcfServices.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\obj\Debug\Server.WcfServices.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\obj\Debug\Server.WcfServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.WcfServices\obj\Debug\Server.WcfServices.pdb

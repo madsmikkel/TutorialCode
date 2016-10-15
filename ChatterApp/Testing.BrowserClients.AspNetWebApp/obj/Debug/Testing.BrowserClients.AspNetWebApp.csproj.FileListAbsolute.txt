@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.BrowserClients.AspNetWebApp\bin\Debug\Testing.BrowserClients.AspNetWebApp.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.BrowserClients.AspNetWebApp\bin\Debug\Testing.BrowserClients.AspNetWebApp.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.BrowserClients.AspNetWebApp\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.BrowserClients.AspNetWebApp\obj\Debug\Testing.BrowserClients.AspNetWebApp.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.BrowserClients.AspNetWebApp\obj\Debug\Testing.BrowserClients.AspNetWebApp.pdb

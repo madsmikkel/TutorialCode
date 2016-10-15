@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Networking\bin\Debug\Testing.Shared.Networking.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Networking\bin\Debug\Testing.Shared.Networking.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Networking\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Networking\obj\Debug\Testing.Shared.Networking.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Networking\obj\Debug\Testing.Shared.Networking.pdb

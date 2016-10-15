@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.DataAccess\bin\Debug\Server.DataAccess.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.DataAccess\bin\Debug\Server.DataAccess.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.DataAccess\obj\Debug\Server.DataAccess.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.DataAccess\obj\Debug\Server.DataAccess.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.DataAccess\obj\Debug\Server.DataAccess.pdb

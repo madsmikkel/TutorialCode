@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\bin\Debug\WindowsClients.ConsoleUI.exe.config
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\bin\Debug\WindowsClients.ConsoleUI.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\bin\Debug\WindowsClients.ConsoleUI.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\obj\Debug\WindowsClients.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\obj\Debug\WindowsClients.ConsoleUI.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.ConsoleUI\obj\Debug\WindowsClients.ConsoleUI.pdb

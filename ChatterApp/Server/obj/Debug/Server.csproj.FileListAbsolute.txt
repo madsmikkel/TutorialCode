@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server\bin\Debug\Server.exe.config
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server\bin\Debug\Server.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server\bin\Debug\Server.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server\obj\Debug\Server.exe
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server\obj\Debug\Server.pdb

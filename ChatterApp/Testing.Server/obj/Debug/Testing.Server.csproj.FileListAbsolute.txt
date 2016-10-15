@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\bin\Debug\Testing.Server.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\bin\Debug\Testing.Server.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\obj\Debug\Testing.Server.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\obj\Debug\Testing.Server.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server\obj\Debug\Testing.Server.pdb

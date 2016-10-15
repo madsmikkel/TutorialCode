@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Entities\bin\Debug\Shared.Entities.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Entities\bin\Debug\Shared.Entities.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Entities\obj\Debug\Shared.Entities.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Entities\obj\Debug\Shared.Entities.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Entities\obj\Debug\Shared.Entities.pdb

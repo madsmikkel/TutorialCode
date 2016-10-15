@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\bin\Debug\Testing.Shared.Entities.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\bin\Debug\Testing.Shared.Entities.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\obj\Debug\Testing.Shared.Entities.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\obj\Debug\Testing.Shared.Entities.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Shared.Entities\obj\Debug\Testing.Shared.Entities.pdb

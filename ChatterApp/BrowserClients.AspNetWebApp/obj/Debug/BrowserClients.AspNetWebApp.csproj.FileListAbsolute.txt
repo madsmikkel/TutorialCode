@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\bin\BrowserClients.AspNetWebApp.dll.config
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\bin\BrowserClients.AspNetWebApp.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\bin\BrowserClients.AspNetWebApp.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\obj\Debug\BrowserClients.AspNetWebApp.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\obj\Debug\BrowserClients.AspNetWebApp.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\BrowserClients.AspNetWebApp\obj\Debug\BrowserClients.AspNetWebApp.pdb

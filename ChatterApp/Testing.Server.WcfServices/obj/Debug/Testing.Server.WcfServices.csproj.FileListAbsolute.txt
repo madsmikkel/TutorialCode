@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\bin\Debug\Testing.Server.WcfServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\bin\Debug\Testing.Server.WcfServices.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\obj\Debug\Testing.Server.WcfServices.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\obj\Debug\Testing.Server.WcfServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.WcfServices\obj\Debug\Testing.Server.WcfServices.pdb

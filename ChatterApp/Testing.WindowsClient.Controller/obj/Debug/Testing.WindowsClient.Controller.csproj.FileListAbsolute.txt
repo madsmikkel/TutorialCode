@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.WindowsClient.Controller\bin\Debug\Testing.WindowsClient.Controller.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.WindowsClient.Controller\bin\Debug\Testing.WindowsClient.Controller.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.WindowsClient.Controller\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.WindowsClient.Controller\obj\Debug\Testing.WindowsClient.Controller.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.WindowsClient.Controller\obj\Debug\Testing.WindowsClient.Controller.pdb

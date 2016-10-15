@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.Controller\bin\Debug\WindowsClients.Controller.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.Controller\bin\Debug\WindowsClients.Controller.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.Controller\obj\Debug\WindowsClients.Controller.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.Controller\obj\Debug\WindowsClients.Controller.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\WindowsClients.Controller\obj\Debug\WindowsClients.Controller.pdb

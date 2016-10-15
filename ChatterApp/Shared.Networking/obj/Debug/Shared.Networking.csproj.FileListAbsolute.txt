@@ -1,0 +1,4 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Networking\bin\Debug\Shared.Networking.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Networking\bin\Debug\Shared.Networking.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Networking\obj\Debug\Shared.Networking.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Shared.Networking\obj\Debug\Shared.Networking.pdb

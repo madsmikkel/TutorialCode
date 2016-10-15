@@ -1,0 +1,6 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\bin\Debug\Testing.Server.TcpServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\bin\Debug\Testing.Server.TcpServices.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\obj\Debug\Testing.Server.TcpServices.csprojResolveAssemblyReference.cache
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\obj\Debug\Testing.Server.TcpServices.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.TcpServices\obj\Debug\Testing.Server.TcpServices.pdb

@@ -1,0 +1,5 @@
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.DataAccess\bin\Debug\Testing.Server.DataAccess.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.DataAccess\bin\Debug\Testing.Server.DataAccess.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.DataAccess\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.DataAccess\obj\Debug\Testing.Server.DataAccess.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Testing.Server.DataAccess\obj\Debug\Testing.Server.DataAccess.pdb
