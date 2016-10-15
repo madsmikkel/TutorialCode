@@ -31,16 +31,25 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Server.DataAccess\Server.DataAccess.csproj">
+      <Project>{591d93ca-20e6-4900-8dc8-8618a73ad708}</Project>
+      <Name>Server.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shared.Entities\Shared.Entities.csproj">
+      <Project>{e514402a-dd68-4a4f-91e2-fe141f110b07}</Project>
+      <Name>Shared.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Shared.Networking\Shared.Networking.csproj">
+      <Project>{44525829-14da-4c79-83a6-a81d455fb8f7}</Project>
+      <Name>Shared.Networking</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

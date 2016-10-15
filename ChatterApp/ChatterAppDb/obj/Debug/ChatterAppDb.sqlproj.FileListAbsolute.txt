@@ -1,9 +1,5 @@
 C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\bin\Debug\ChatterAppDb.dacpac
 C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\bin\Debug\ChatterAppDb.dll
 C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\bin\Debug\ChatterAppDb.pdb
-C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\Model.xml
-C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\refactor.xml
-C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\postdeploy.sql
-C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\predeploy.sql
 C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\ChatterAppDb.dll
 C:\Source\TutorialCode\TutorialCode\ChatterApp\ChatterAppDb\obj\Debug\ChatterAppDb.pdb

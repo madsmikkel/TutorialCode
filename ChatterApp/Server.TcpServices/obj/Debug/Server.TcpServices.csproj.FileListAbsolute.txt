@@ -3,3 +3,9 @@ C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Serv
 C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.csprojResolveAssemblyReference.cache
 C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.dll
 C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\obj\Debug\Server.TcpServices.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Server.DataAccess.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Shared.Entities.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Shared.Networking.dll
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Server.DataAccess.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Shared.Entities.pdb
+C:\Source\TutorialCode\TutorialCode\ChatterApp\Server.TcpServices\bin\Debug\Shared.Networking.pdb
